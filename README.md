@@ -1,100 +1,99 @@
-🚀 QCBS – Quantum Circuit Benchmark Suite
-Measure • Benchmark • Optimize • Reproduce Quantum Circuits
+# 🚀 QCBS – Quantum Circuit Benchmark Suite
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Qiskit](https://img.shields.io/badge/Qiskit-Latest-purple)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![Research](https://img.shields.io/badge/Research-Quantum-blueviolet)
+![Hackathon Ready](https://img.shields.io/badge/Hackathon-Ready-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Release](https://img.shields.io/badge/Release-v1.0.0-orange)
 
+---
 
+## 📖 Overview
 
-📖 Overview
+QCBS (Quantum Circuit Benchmark Suite) is an open-source benchmarking framework built with **Qiskit** for generating, transpiling, benchmarking, and analyzing quantum circuits.
 
-QCBS (Quantum Circuit Benchmark Suite) is an open-source benchmarking framework built with Qiskit for generating, transpiling, benchmarking, and analyzing quantum circuits.
+It helps researchers, students, and developers compare quantum circuits using reproducible experiments and hardware-aware resource estimation.
 
-The project helps researchers, students, and developers compare quantum circuits using reproducible experiments and hardware-aware resource estimation.
+---
 
-✨ Features
-✅ Automatic Quantum Circuit Generation
-✅ Bell State Benchmark
-✅ GHZ State Benchmark
-✅ Quantum Fourier Transform (QFT)
-✅ Draper QFT Adder Benchmark
-✅ Ripple Carry Adder Benchmark
-✅ Native Hardware Metrics
-✅ Clifford+T Resource Estimation
-✅ Experiment Registry
-✅ CSV Export
-✅ JSON Export
-✅ Benchmark Leaderboard
-✅ Reproducible Research Pipeline
-📊 Benchmark Outputs
+## ✨ Features
 
-The benchmark engine automatically generates:
+* Automatic Quantum Circuit Generation
+* Bell State Benchmark
+* GHZ State Benchmark
+* Quantum Fourier Transform (QFT)
+* Draper QFT Adder Benchmark
+* Ripple Carry Adder Benchmark
+* Native Hardware Metrics
+* Clifford+T Resource Estimation
+* Experiment Registry
+* CSV & JSON Export
+* Benchmark Leaderboard
+* Reproducible Research Pipeline
 
-Circuit Depth
-Gate Count
-CX Count
-T Count
-T† Count
-Native Hardware Metrics
-Clifford+T Metrics
-Experiment Logs
-Benchmark Reports
-🛠 Technology Stack
-Python
-Qiskit
-Qiskit Aer
-Pandas
-Matplotlib
-📂 Project Structure
-qcbs_engine/
-│
-├── benchmarks/
-├── core/
-├── experiments/
-├── results/
-│   ├── experiment_log.csv
-│   ├── leaderboard.csv
-│   ├── summary.json
-│   ├── benchmark_report.md
-│   └── runs/
-│
-├── main.py
-├── requirements.txt
-├── README.md
-└── LICENSE
-🚀 Quick Start
-Clone Repository
+---
+
+## 🛠 Technology Stack
+
+* Python
+* Qiskit
+* Qiskit Aer
+* Pandas
+* Matplotlib
+
+---
+
+## 🚀 Quick Start
+
+### Clone Repository
+
+```bash
 git clone https://github.com/softpeak007/quantum-circuit-benchmark-suite.git
-
 cd quantum-circuit-benchmark-suite
-Install Dependencies
+```
+
+### Install Dependencies
+
+```bash
 pip install -r requirements.txt
-Run Benchmark Suite
+```
+
+### Run Benchmark
+
+```bash
 python main.py benchmark --small
-🎯 Scientific Principles
-Reproducible Experiments
-Transparent Metric Extraction
-Hardware-Aware Benchmarking
-Fault-Tolerant Resource Estimation
-Evidence-Driven Quantum Circuit Analysis
-📈 Future Roadmap
-🤖 AI Circuit Explanation Engine
-📊 Streamlit Dashboard
-📄 PDF Benchmark Reports
-⚛️ Live Circuit Comparison
-💡 AI Optimization Suggestions
-📉 Hardware Cost Prediction
-🔬 Advanced Quantum Benchmark Library
-🤝 Contributions
+```
 
-Contributions are welcome.
+---
 
-Feel free to fork the repository, submit pull requests, or open issues to improve the project.
+## 📈 Roadmap
 
-📜 License
+* AI Circuit Explanation Engine
+* Streamlit Dashboard
+* Live Circuit Comparison
+* PDF Benchmark Reports
+* AI Optimization Suggestions
 
-This project is released under the MIT License.
+---
 
-⭐ Support
+## 🤝 Contributing
 
-If you like this project, please consider giving it a ⭐ Star on GitHub.
+Contributions, bug reports, and feature requests are welcome.
 
-Your support helps improve and expand the Quantum Circuit Benchmark Suite for the community.
+Feel free to fork this repository and submit a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
+
+Your support helps improve the project and encourages future development.
