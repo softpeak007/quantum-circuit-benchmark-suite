@@ -1,0 +1,6 @@
+{
+  "name": "QCBS",
+  "description": "AI-powered quantum circuit benchmarking with Qiskit. Benchmark native gate depth, CX/RZ count, and Clifford+T representations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
