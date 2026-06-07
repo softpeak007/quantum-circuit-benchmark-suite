@@ -1,0 +1,30 @@
+{
+    "run_id": "5271ce17",
+    "timestamp": "2026-06-07T03:24:34.106837",
+    "metadata": {
+        "platform": "Google Colab",
+        "python_version": "3.12.13",
+        "os": "Linux-6.6.122+-x86_64-with-glibc2.35",
+        "experiment_version": "v1.0"
+    },
+    "circuit_name": "draper",
+    "qubits": 6,
+    "optimization_level": 0,
+    "metrics": {
+        "qiskit_version": "2.4.1",
+        "native": {
+            "depth": 50,
+            "cx": 24,
+            "rz": 48
+        },
+        "clifford_t": {
+            "depth": 2936,
+            "cx": 24,
+            "t": 1153,
+            "tdg": 8
+        },
+        "total_non_clifford": 1161,
+        "transpilation_time": 0.06991147994995117
+    },
+    "hash": "f039e95548566a37484c79491cfb75cc2b927992f49eebc2989fa79494eeab6e"
+}

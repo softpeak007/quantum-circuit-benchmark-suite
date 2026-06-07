@@ -1,0 +1,30 @@
+{
+    "run_id": "12a3956d",
+    "timestamp": "2026-06-07T03:24:30.501953",
+    "metadata": {
+        "platform": "Google Colab",
+        "python_version": "3.12.13",
+        "os": "Linux-6.6.122+-x86_64-with-glibc2.35",
+        "experiment_version": "v1.0"
+    },
+    "circuit_name": "bell",
+    "qubits": 2,
+    "optimization_level": 0,
+    "metrics": {
+        "qiskit_version": "2.4.1",
+        "native": {
+            "depth": 4,
+            "cx": 1,
+            "rz": 2
+        },
+        "clifford_t": {
+            "depth": 2,
+            "cx": 1,
+            "t": 0,
+            "tdg": 0
+        },
+        "total_non_clifford": 0,
+        "transpilation_time": 1.1281445026397705
+    },
+    "hash": "62e4f12d1df5712ea6ca856ee90e23afbd69d9e4150434445359411d84dc5874"
+}

@@ -1,0 +1,30 @@
+{
+    "run_id": "a29c6af9",
+    "timestamp": "2026-06-07T03:24:35.126350",
+    "metadata": {
+        "platform": "Google Colab",
+        "python_version": "3.12.13",
+        "os": "Linux-6.6.122+-x86_64-with-glibc2.35",
+        "experiment_version": "v1.0"
+    },
+    "circuit_name": "ripple",
+    "qubits": 6,
+    "optimization_level": 0,
+    "metrics": {
+        "qiskit_version": "2.4.1",
+        "native": {
+            "depth": 95,
+            "cx": 49,
+            "rz": 66
+        },
+        "clifford_t": {
+            "depth": 74,
+            "cx": 49,
+            "t": 24,
+            "tdg": 18
+        },
+        "total_non_clifford": 42,
+        "transpilation_time": 0.009666681289672852
+    },
+    "hash": "2ca65f4322fb6a1d097944ec7c1ed882db511dc5843ba8bcb2fefec5ccc1cda0"
+}

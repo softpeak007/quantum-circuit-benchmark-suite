@@ -1,0 +1,30 @@
+{
+    "run_id": "94a8cff7",
+    "timestamp": "2026-06-07T03:24:32.049528",
+    "metadata": {
+        "platform": "Google Colab",
+        "python_version": "3.12.13",
+        "os": "Linux-6.6.122+-x86_64-with-glibc2.35",
+        "experiment_version": "v1.0"
+    },
+    "circuit_name": "qft",
+    "qubits": 6,
+    "optimization_level": 2,
+    "metrics": {
+        "qiskit_version": "2.4.1",
+        "native": {
+            "depth": 37,
+            "cx": 30,
+            "rz": 37
+        },
+        "clifford_t": {
+            "depth": 3840,
+            "cx": 30,
+            "t": 3013,
+            "tdg": 5
+        },
+        "total_non_clifford": 3018,
+        "transpilation_time": 0.25853919982910156
+    },
+    "hash": "b8f5e6aa276c79d2caeefddf7a8e4ddafe1fdeef59ab9f3f65eb9b5b47b1a784"
+}

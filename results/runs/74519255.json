@@ -1,0 +1,30 @@
+{
+    "run_id": "74519255",
+    "timestamp": "2026-06-07T03:24:30.624213",
+    "metadata": {
+        "platform": "Google Colab",
+        "python_version": "3.12.13",
+        "os": "Linux-6.6.122+-x86_64-with-glibc2.35",
+        "experiment_version": "v1.0"
+    },
+    "circuit_name": "ghz",
+    "qubits": 6,
+    "optimization_level": 0,
+    "metrics": {
+        "qiskit_version": "2.4.1",
+        "native": {
+            "depth": 8,
+            "cx": 5,
+            "rz": 2
+        },
+        "clifford_t": {
+            "depth": 6,
+            "cx": 5,
+            "t": 0,
+            "tdg": 0
+        },
+        "total_non_clifford": 0,
+        "transpilation_time": 0.005109548568725586
+    },
+    "hash": "f06847e4932039d319bd54d5f422175d716bfe3e5bb5e93f7000dd8e3a9b5dec"
+}
