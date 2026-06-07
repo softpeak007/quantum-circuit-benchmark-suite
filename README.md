@@ -1,6 +1,7 @@
 # 🚀 QCBS – Quantum Circuit Benchmark Suite
 
-An AI-powered open-source platform for quantum circuit benchmarking, fault-tolerant resource estimation, and reproducible Qiskit experiments."Measure. Benchmark. Optimize. Advance Quantum Computing."
+An AI-powered open-source platform for quantum circuit benchmarking, fault-tolerant resource estimation, and reproducible Qiskit experiments.
+"Measure. Benchmark. Optimize. Advance Quantum Computing."
 
 ## Features
 
