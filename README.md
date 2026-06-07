@@ -1,6 +1,6 @@
 # 🚀 QCBS – Quantum Circuit Benchmark Suite
 
-An AI-powered open-source platform for quantum circuit benchmarking, fault-tolerant resource estimation, and reproducible Qiskit experiments.
+An AI-powered open-source platform for quantum circuit benchmarking, fault-tolerant resource estimation, and reproducible Qiskit experiments."Measure. Benchmark. Optimize. Advance Quantum Computing."
 
 ## Features
 
@@ -41,3 +41,4 @@ An AI-powered open-source platform for quantum circuit benchmarking, fault-toler
 ## License
 
 MIT License
+Powered by QVDE (Quantum Vedic Discovery Engine) — a Vedic-inspired research workflow where ideas are treated as hypotheses and validated through reproducible Qiskit experiments and formal scientific analysis.
